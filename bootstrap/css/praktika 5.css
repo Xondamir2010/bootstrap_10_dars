@@ -1,0 +1,10 @@
+input{
+    width: 200px;
+}
+.card{
+    margin-left: -170px;
+    width: 500px;
+}
+body{
+    background-color: #ccc;
+}
